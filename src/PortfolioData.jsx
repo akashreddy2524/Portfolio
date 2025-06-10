@@ -13,13 +13,13 @@ const PortfolioData = [
     liveUrl: "https://pokemon-infocards.netlify.app/",
     repositoryUrl: "https://github.com/akashreddy2524/Pokemon-Kingdom",
     image: Travel,
-    techStack:['HTML 5','CSS 3','JAVASCRIPT','REACT','Bootstrap','jQuery']
+    techStack:['HTML 5','CSS 3','JAVASCRIPT','REACT','Bootstrap']
   },
   {
     id: 2,
     title: "Tourist",
     owner:'Group Project',
-    tagline: "git rev-parse --show-toplevel",
+    tagline: "The project is a user-friendly travel agency website designed to help users discover and book personalized travel experiences, offering easy navigation and seamless trip planning.",
     liveUrl: "https://tourist-tourbooking.netlify.app/",
     repositoryUrl: "https://github.com/akashreddy2524/Tourist",
     image: umai,
